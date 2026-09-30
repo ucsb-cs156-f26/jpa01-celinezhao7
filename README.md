@@ -1,7 +1,6 @@
 # jpa01-celinezhao7
 
-Deployed at: http://jpa01-celinezhao7.dokku-08.cs.ucsb.edu/
-
+Deployed at: https://jpa01-celinezhao7.dokku-08.cs.ucsb.edu/
 
 # About this repo
 
